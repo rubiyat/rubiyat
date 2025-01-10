@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am a Software Engineer currently working at a Bangladeshi software company. I specialize in developing robust software solutions and have experience in technologies like Java, Spring Boot, Angular, PHP, and Laravel.<br><br>I'm passionate about building impactful software and exploring innovative tech. I'm always looking forward to collaborating on exciting projects or contributing to open-source initiatives.<br><br>Enhancing my skills in DevOps, AI integrations, and exploring SaaS development.<br><br>I love problem-solving, and debugging feels like solving puzzles—it's both challenging and fun!<br><br>Feel free to reach out if you'd like to collaborate or just have a chat about tech and beyond.<br><br>
+Hi there! I'm a Software Engineer doing my thing at a Bangladeshi software company, cranking out code and trying not to break too much stuff. My toolkit includes Java, Spring Boot, Angular, PHP, Laravel, and a healthy dose of Stack Overflow magic.<br><br>
+
+I’m all about building software that works (most of the time) and finding creative ways to make tech fun. Debugging? Oh, that's my version of Sudoku—except with more tears and coffee.<br><br>
+
+Currently geeking out over DevOps, AI integrations, and cooking up SaaS ideas that might just change the world... or at least my weekend plans.<br><br>
+
+Let’s connect if you want to team up, talk shop, or laugh about the latest tech memes. Just don’t ask me to fix your printer—I'm not that kind of engineer!<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubiyat&label=Profile%20views&color=0e75b6&style=flat" alt="rubiyat" /> </p>
 
