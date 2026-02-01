@@ -62,7 +62,7 @@ that might change the world… or at least improve my weekends 😄
 - Database indexing & performance optimization  
 - Distributed systems concepts  
 
---⬇️ Check pinned repositories below ⬇️
+<!--⬇️ Check pinned repositories below ⬇️-->
 
 ---
 
@@ -122,7 +122,7 @@ Java • Spring Boot • Kafka • AWS • Microservices
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=rubiyat&theme=dark&hide_border=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rubiyat&theme=dark&hide_border=false)
@@ -134,7 +134,7 @@ Java • Spring Boot • Kafka • AWS • Microservices
 
 ![](https://github-profile-trophy.vercel.app/?username=rubiyat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+----->
 
 ## ✍️ Random Dev Quote
 
