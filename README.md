@@ -21,10 +21,48 @@ that might change the world… or at least improve my weekends 😄
 
 ---
 
+## 🧩 What I Build
+
+- ⚙️ Scalable backend systems using Java & Spring Boot  
+- 🧱 Microservices handling complex business workflows  
+- 🔄 Event-driven architectures with Apache Kafka  
+- ☁️ Cloud-native systems deployed on AWS  
+- 🔐 Secure REST APIs with JWT, RBAC & Spring Security  
+- 📊 Observable systems using logging, metrics & monitoring  
+- 🚀 High-performance services supporting large user bases  
+
+---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rubiyat-hasan-siddik)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rubiyat21@gmail.com)
+
+---
+
+## 📌 Featured Projects
+
+🔹 **Spring Boot Microservices Platform**  
+- API Gateway, Authentication Service, domain-based microservices  
+- Kafka-based asynchronous communication  
+- Dockerized services with centralized configuration  
+
+🔹 **Event-Driven Architecture with Kafka**  
+- Producer–consumer design patterns  
+- Retry strategy & dead-letter topics  
+- High-throughput real-time messaging  
+
+🔹 **AWS Cloud Infrastructure Deployment**  
+- ECS (Fargate & EC2), ALB, Auto Scaling Groups  
+- IAM roles, Secrets Manager  
+- Production-grade deployment architecture  
+
+🔹 **System Design Notes**  
+- Scalable backend architecture patterns  
+- Database indexing & performance optimization  
+- Distributed systems concepts  
+
+⬇️ Check pinned repositories below ⬇️
 
 ---
 
@@ -70,6 +108,17 @@ that might change the world… or at least improve my weekends 😄
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
+
+---
+
+## 🌍 Open to Opportunities
+
+✅ Remote Backend Engineer  
+✅ Senior Software Engineer (Backend)  
+✅ Platform / Microservices Engineer  
+
+**Preferred Stack:**  
+Java • Spring Boot • Kafka • AWS • Microservices
 
 ---
 
