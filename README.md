@@ -62,7 +62,7 @@ that might change the world… or at least improve my weekends 😄
 - Database indexing & performance optimization  
 - Distributed systems concepts  
 
-⬇️ Check pinned repositories below ⬇️
+--⬇️ Check pinned repositories below ⬇️
 
 ---
 
