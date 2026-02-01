@@ -1,145 +1,96 @@
-# 👋 Hi, I'm Rubiyat Hasan Siddik
+# 💫 About Me
 
-Senior Backend Engineer with 6+ years of professional experience designing, developing, and scaling
-high-performance backend systems using **Java, Spring Boot, and Microservices architecture**.
+Hi there! 👋  
+I'm a **Senior Software Engineer** from Bangladesh with 6+ years of experience building
+scalable, secure, and high-performance backend systems.
 
-I have contributed to enterprise and government platforms for organizations including
-**World Bank, HSBC, UNICEF, Nestlé, and national government institutions**.
+I work mainly with **Java, Spring Boot, Microservices, and Cloud-native architectures**.
+I enjoy solving complex backend problems, designing reliable systems, and turning business
+requirements into production-ready software.
 
-I specialize in building **secure, scalable, and cloud-native backend systems** with strong focus on
-system design, performance optimization, and reliability.
+Debugging is my daily puzzle 🧩 — powered by coffee ☕ and curiosity.
 
----
-
-## 🚀 Professional Summary
-
-- 💼 Senior Backend Engineer with 6+ years of industry experience  
-- 🧱 Expert in Microservices & Event-Driven Architecture  
-- ⚡ Built systems handling 50,000+ daily requests with 99.9% uptime  
-- ☁️ Strong hands-on experience with AWS cloud infrastructure  
-- 🔄 Extensive use of Apache Kafka for asynchronous processing  
-- 🌍 Worked with global remote teams across UK & international clients  
+Currently exploring **DevOps practices, AI integrations**, and building **SaaS ideas**
+that might change the world… or at least improve my weekends 😄
 
 ---
 
-## 🧠 Core Technical Skills
-
-### Backend
-- Java  
-- Spring Boot  
-- Spring Security  
-- RESTful APIs  
-
-### Architecture
-- Microservices Architecture  
-- Event-Driven Systems  
-- System Design  
-
-### Messaging & Data
-- Apache Kafka  
-- MySQL  
-- MS SQL Server  
-- Oracle  
-- MongoDB  
-
-### Cloud & DevOps
-- AWS (ECS, EC2, ALB, ASG, IAM, Secrets Manager)  
-- Docker  
-- GitHub Actions  
-- CI/CD Pipelines  
-
-### Observability & Security
-- Prometheus  
-- Grafana  
-- ELK Stack  
-- Role-Based Access Control (RBAC)  
-- SSL/TLS  
-- Encryption  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rubiyat&label=Profile%20views&color=0e75b6&style=flat" alt="rubiyat" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🌐 Connect With Me
 
-### 🔹 Spring Boot Microservices Platform
-- API Gateway
-- Authentication Service
-- Multiple domain microservices
-- Kafka-based asynchronous communication
-- JWT-based security
-- Dockerized deployment
-- Centralized configuration
-
-### 🔹 Event-Driven Architecture with Kafka
-- Producer–consumer patterns
-- Retry and failure handling
-- Dead-letter topics
-- Message ordering
-- High-throughput messaging
-
-### 🔹 AWS Cloud Infrastructure
-- ECS (Fargate & EC2)
-- Application Load Balancer
-- Auto Scaling Groups
-- IAM roles and policies
-- AWS Secrets Manager
-- Production-ready deployment setup
-
-### 🔹 System Design Repository
-- Scalable system design examples
-- Distributed systems concepts
-- Database optimization strategies
-- Caching & performance tuning
-- Messaging architecture comparisons
-
-### 🔹 Clean Architecture – Spring Boot
-- Domain-Driven Design (DDD)
-- Hexagonal architecture
-- Clean separation of layers
-- Testable and maintainable codebase
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rubiyat-hasan-siddik)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rubiyat21@gmail.com)
 
 ---
 
-## 🏗️ Engineering Principles
+## 💻 Tech Stack
 
-- Clean Code & SOLID principles  
-- High cohesion, low coupling  
-- Scalable and fault-tolerant design  
-- Observability-first development  
-- Security-by-design approach  
-- Cloud-native best practices  
-
----
-
-## 📊 What You’ll Find in My GitHub
-
-✔ Production-style project structures  
-✔ Clean and readable code  
-✔ Detailed README documentation  
-✔ Architecture diagrams  
-✔ Docker support  
-✔ Meaningful commit history  
+### 🚀 Backend & Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
-## 🌍 Open to Remote Opportunities
-
-I am currently open to:
-
-- 🌐 Remote Backend Engineer roles  
-- 🧩 Senior Software Engineer (Backend)  
-- ☁️ Cloud / Platform Engineer positions  
-
-**Preferred Tech Stack:**  
-Java • Spring Boot • Kafka • AWS • Microservices
+### 🧱 Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 ---
 
-## 📫 Contact
-
-- 📧 Email: **rubiyat21@gmail.com**  
-- 🔗 LinkedIn: https://linkedin.com/in/rubiyat-hasan-siddik  
-- 💻 GitHub: https://github.com/rubiyat  
+### ☁️ Cloud, DevOps & Messaging
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
-⭐ Thank you for visiting my profile — feel free to explore my repositories!
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+---
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=rubiyat&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rubiyat&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rubiyat&theme=dark&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=rubiyat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=rubiyat&icon=0&color=0)](https://visitcount.itsvg.in)
